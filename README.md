@@ -17,6 +17,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h2 align="left">📃 | About Me</h2>
 
 ###
@@ -39,7 +45,9 @@
 
 ###
 
-<h2 align="left">---------------------------------------------------------------------------</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
